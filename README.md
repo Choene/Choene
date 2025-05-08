@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=choene&show_icons=true&theme=radical)
 
-## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=choene&layout=compact&theme=radical)
+## 💻 Languages Used
+![All Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=choene&layout=compact&theme=radical&hide_progress=false&langs_count=100)
 
 ## 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=choene&theme=radical)
